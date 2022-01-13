@@ -1,0 +1,2 @@
+# Friday Night Funkin Vs Tiff'
+Uh, it's built on Psych Engine and programmed by me(Just Jack), idk you dont really need much of a description I just dont wanna see psych engine here lmao Psych Engine is by shadowmario

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Start_Screen_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="try now 0000" x="0" y="0" width="795" height="798" pivotX="36.2" pivotY="0.7" frameX="-36" frameY="0" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0001" x="795" y="0" width="861" height="798"/>
+	<SubTexture name="try now 0002" x="1656" y="0" width="861" height="798"/>
+	<SubTexture name="try now 0003" x="2517" y="0" width="793" height="796" frameX="-38" frameY="-2" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0004" x="3310" y="0" width="790" height="796" frameX="-41" frameY="-2" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0005" x="4100" y="0" width="790" height="795" frameX="-41" frameY="-3" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0006" x="4890" y="0" width="790" height="795" frameX="-41" frameY="-3" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0007" x="5680" y="0" width="767" height="795" frameX="-62" frameY="-3" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0008" x="6447" y="0" width="767" height="795" frameX="-62" frameY="-3" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0009" x="7214" y="0" width="767" height="795" frameX="-62" frameY="-3" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0010" x="0" y="798" width="767" height="795" frameX="-62" frameY="-3" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0011" x="767" y="798" width="767" height="795" frameX="-62" frameY="-3" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0012" x="1534" y="798" width="767" height="795" frameX="-62" frameY="-3" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0013" x="2301" y="798" width="768" height="795" frameX="-62" frameY="-3" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0014" x="3069" y="798" width="768" height="795" frameX="-62" frameY="-3" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0015" x="3837" y="798" width="767" height="795" frameX="-68" frameY="-3" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0016" x="4604" y="798" width="861" height="798"/>
+	<SubTexture name="try now 0017" x="5465" y="798" width="861" height="798"/>
+	<SubTexture name="try now 0018" x="6326" y="798" width="765" height="796" frameX="-70" frameY="-2" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0019" x="7091" y="798" width="763" height="796" frameX="-71" frameY="-2" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0020" x="0" y="1596" width="763" height="795" frameX="-71" frameY="-3" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0021" x="763" y="1596" width="760" height="795" frameX="-71" frameY="-3" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0022" x="1523" y="1596" width="760" height="795" frameX="-71" frameY="-3" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0023" x="2283" y="1596" width="761" height="795" frameX="-68" frameY="-3" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0024" x="3044" y="1596" width="761" height="795" frameX="-68" frameY="-3" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0025" x="3805" y="1596" width="764" height="795" frameX="-65" frameY="-3" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0026" x="4569" y="1596" width="764" height="795" frameX="-65" frameY="-3" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0027" x="5333" y="1596" width="764" height="795" frameX="-65" frameY="-3" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0028" x="6097" y="1596" width="773" height="795" frameX="-57" frameY="-3" frameWidth="861" frameHeight="798"/>
+	<SubTexture name="try now 0029" x="6870" y="1596" width="773" height="795" frameX="-57" frameY="-3" frameWidth="861" frameHeight="798"/>
+</TextureAtlas>

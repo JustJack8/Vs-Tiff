@@ -1,0 +1,30 @@
+{
+	"storyName": "average 2000s teen",
+	"hideFreeplay": false,
+	"weekBackground": "bedroom",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"glam",
+			"tiff2",
+			[
+				255,
+				33,
+				173
+			]
+		]
+	],
+	"weekName": "Tiff Week"
+}

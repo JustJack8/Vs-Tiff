@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tiff_Arrows.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tiff_DOWN0000" x="0" y="0" width="276" height="466" pivotX="144.5" pivotY="225.65"/>
+	<SubTexture name="tiff_DOWN0001" x="0" y="0" width="276" height="466"/>
+	<SubTexture name="tiff_DOWN0002" x="276" y="0" width="224" height="426" frameX="-29" frameY="-31" frameWidth="276" frameHeight="466"/>
+	<SubTexture name="tiff_DOWN0003" x="276" y="0" width="224" height="426" frameX="-29" frameY="-31" frameWidth="276" frameHeight="466"/>
+	<SubTexture name="tiff_DOWN0004" x="276" y="0" width="224" height="426" frameX="-29" frameY="-31" frameWidth="276" frameHeight="466"/>
+	<SubTexture name="tiff_DOWN0005" x="276" y="0" width="224" height="426" frameX="-29" frameY="-31" frameWidth="276" frameHeight="466"/>
+	<SubTexture name="tiff_DOWN0006" x="276" y="0" width="224" height="426" frameX="-29" frameY="-31" frameWidth="276" frameHeight="466"/>
+	<SubTexture name="tiff_DOWN0007" x="276" y="0" width="224" height="426" frameX="-29" frameY="-31" frameWidth="276" frameHeight="466"/>
+	<SubTexture name="tiff_DOWN0008" x="276" y="0" width="224" height="426" frameX="-29" frameY="-31" frameWidth="276" frameHeight="466"/>
+	<SubTexture name="tiff_DOWN0009" x="276" y="0" width="224" height="426" frameX="-29" frameY="-31" frameWidth="276" frameHeight="466"/>
+	<SubTexture name="tiff_DOWN0010" x="276" y="0" width="224" height="426" frameX="-29" frameY="-31" frameWidth="276" frameHeight="466"/>
+	<SubTexture name="tiff_DOWN0011" x="276" y="0" width="224" height="426" frameX="-29" frameY="-31" frameWidth="276" frameHeight="466"/>
+	<SubTexture name="tiff_IDLE0000" x="500" y="0" width="300" height="474" pivotX="157.65" pivotY="238.05" frameX="-20" frameY="-7" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0001" x="500" y="0" width="300" height="474" frameX="-20" frameY="-7" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0002" x="800" y="0" width="305" height="479" frameX="-13" frameY="-2" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0003" x="800" y="0" width="305" height="479" frameX="-13" frameY="-2" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0004" x="800" y="0" width="305" height="479" frameX="-13" frameY="-2" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0005" x="1105" y="0" width="310" height="481" frameX="-7" frameY="0" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0006" x="1105" y="0" width="310" height="481" frameX="-7" frameY="0" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0007" x="1105" y="0" width="310" height="481" frameX="-7" frameY="0" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0008" x="1415" y="0" width="312" height="479" frameX="-5" frameY="-1" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0009" x="1415" y="0" width="312" height="479" frameX="-5" frameY="-1" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0010" x="1727" y="0" width="317" height="476" frameX="0" frameY="-4" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0011" x="1727" y="0" width="317" height="476" frameX="0" frameY="-4" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0012" x="0" y="481" width="312" height="474" frameX="-3" frameY="-7" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0013" x="0" y="481" width="312" height="474" frameX="-3" frameY="-7" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0014" x="312" y="481" width="306" height="477" frameX="-9" frameY="-5" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0015" x="312" y="481" width="306" height="477" frameX="-9" frameY="-5" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0016" x="312" y="481" width="306" height="477" frameX="-9" frameY="-5" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0017" x="618" y="481" width="306" height="477" frameX="-9" frameY="-5" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0018" x="618" y="481" width="306" height="477" frameX="-9" frameY="-5" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0019" x="618" y="481" width="306" height="477" frameX="-9" frameY="-5" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0020" x="924" y="481" width="304" height="473" frameX="-11" frameY="-8" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0021" x="924" y="481" width="304" height="473" frameX="-11" frameY="-8" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0022" x="1228" y="481" width="300" height="472" frameX="-15" frameY="-9" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_IDLE0023" x="1228" y="481" width="300" height="472" frameX="-15" frameY="-9" frameWidth="320" frameHeight="482"/>
+	<SubTexture name="tiff_LEFT0000" x="1528" y="481" width="363" height="493" pivotX="251.85" pivotY="253.4"/>
+	<SubTexture name="tiff_LEFT0001" x="1528" y="481" width="363" height="493"/>
+	<SubTexture name="tiff_LEFT0002" x="0" y="974" width="277" height="426" frameX="-59" frameY="-58" frameWidth="363" frameHeight="493"/>
+	<SubTexture name="tiff_LEFT0003" x="0" y="974" width="277" height="426" frameX="-59" frameY="-58" frameWidth="363" frameHeight="493"/>
+	<SubTexture name="tiff_LEFT0004" x="0" y="974" width="277" height="426" frameX="-59" frameY="-58" frameWidth="363" frameHeight="493"/>
+	<SubTexture name="tiff_LEFT0005" x="0" y="974" width="277" height="426" frameX="-59" frameY="-58" frameWidth="363" frameHeight="493"/>
+	<SubTexture name="tiff_LEFT0006" x="0" y="974" width="277" height="426" frameX="-59" frameY="-58" frameWidth="363" frameHeight="493"/>
+	<SubTexture name="tiff_LEFT0007" x="0" y="974" width="277" height="426" frameX="-59" frameY="-58" frameWidth="363" frameHeight="493"/>
+	<SubTexture name="tiff_LEFT0008" x="0" y="974" width="277" height="426" frameX="-59" frameY="-58" frameWidth="363" frameHeight="493"/>
+	<SubTexture name="tiff_LEFT0009" x="0" y="974" width="277" height="426" frameX="-59" frameY="-58" frameWidth="363" frameHeight="493"/>
+	<SubTexture name="tiff_LEFT0010" x="0" y="974" width="277" height="426" frameX="-59" frameY="-58" frameWidth="363" frameHeight="493"/>
+	<SubTexture name="tiff_LEFT0011" x="0" y="974" width="277" height="426" frameX="-59" frameY="-58" frameWidth="363" frameHeight="493"/>
+	<SubTexture name="tiff_RIGHT0000" x="277" y="974" width="276" height="480" pivotX="82.65" pivotY="240"/>
+	<SubTexture name="tiff_RIGHT0001" x="277" y="974" width="276" height="480"/>
+	<SubTexture name="tiff_RIGHT0002" x="553" y="974" width="255" height="421" frameX="-18" frameY="-50" frameWidth="276" frameHeight="480"/>
+	<SubTexture name="tiff_RIGHT0003" x="553" y="974" width="255" height="421" frameX="-18" frameY="-50" frameWidth="276" frameHeight="480"/>
+	<SubTexture name="tiff_RIGHT0004" x="553" y="974" width="255" height="421" frameX="-18" frameY="-50" frameWidth="276" frameHeight="480"/>
+	<SubTexture name="tiff_RIGHT0005" x="553" y="974" width="255" height="421" frameX="-18" frameY="-50" frameWidth="276" frameHeight="480"/>
+	<SubTexture name="tiff_RIGHT0006" x="553" y="974" width="255" height="421" frameX="-18" frameY="-50" frameWidth="276" frameHeight="480"/>
+	<SubTexture name="tiff_RIGHT0007" x="553" y="974" width="255" height="421" frameX="-18" frameY="-50" frameWidth="276" frameHeight="480"/>
+	<SubTexture name="tiff_RIGHT0008" x="553" y="974" width="255" height="421" frameX="-18" frameY="-50" frameWidth="276" frameHeight="480"/>
+	<SubTexture name="tiff_RIGHT0009" x="553" y="974" width="255" height="421" frameX="-18" frameY="-50" frameWidth="276" frameHeight="480"/>
+	<SubTexture name="tiff_RIGHT0010" x="553" y="974" width="255" height="421" frameX="-18" frameY="-50" frameWidth="276" frameHeight="480"/>
+	<SubTexture name="tiff_RIGHT0011" x="553" y="974" width="255" height="421" frameX="-18" frameY="-50" frameWidth="276" frameHeight="480"/>
+	<SubTexture name="tiff_UP0000" x="808" y="974" width="218" height="460" pivotX="128.95" pivotY="232.85" frameX="-5" frameY="0" frameWidth="230" frameHeight="461"/>
+	<SubTexture name="tiff_UP0001" x="808" y="974" width="218" height="460" frameX="-5" frameY="0" frameWidth="230" frameHeight="461"/>
+	<SubTexture name="tiff_UP0002" x="1026" y="974" width="230" height="448" frameX="0" frameY="-13" frameWidth="230" frameHeight="461"/>
+	<SubTexture name="tiff_UP0003" x="1026" y="974" width="230" height="448" frameX="0" frameY="-13" frameWidth="230" frameHeight="461"/>
+	<SubTexture name="tiff_UP0004" x="1026" y="974" width="230" height="448" frameX="0" frameY="-13" frameWidth="230" frameHeight="461"/>
+	<SubTexture name="tiff_UP0005" x="1026" y="974" width="230" height="448" frameX="0" frameY="-13" frameWidth="230" frameHeight="461"/>
+	<SubTexture name="tiff_UP0006" x="1026" y="974" width="230" height="448" frameX="0" frameY="-13" frameWidth="230" frameHeight="461"/>
+	<SubTexture name="tiff_UP0007" x="1026" y="974" width="230" height="448" frameX="0" frameY="-13" frameWidth="230" frameHeight="461"/>
+	<SubTexture name="tiff_UP0008" x="1026" y="974" width="230" height="448" frameX="0" frameY="-13" frameWidth="230" frameHeight="461"/>
+	<SubTexture name="tiff_UP0009" x="1026" y="974" width="230" height="448" frameX="0" frameY="-13" frameWidth="230" frameHeight="461"/>
+	<SubTexture name="tiff_UP0010" x="1026" y="974" width="230" height="448" frameX="0" frameY="-13" frameWidth="230" frameHeight="461"/>
+	<SubTexture name="tiff_UP0011" x="1026" y="974" width="230" height="448" frameX="0" frameY="-13" frameWidth="230" frameHeight="461"/>
+</TextureAtlas>
