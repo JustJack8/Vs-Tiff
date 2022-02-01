@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="glitterbomb.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="the  copy0000" x="0" y="0" width="151" height="154" pivotX="239.9" pivotY="122.3" frameX="-114" frameY="-35" frameWidth="396" frameHeight="236"/>
+	<SubTexture name="the  copy0001" x="151" y="0" width="196" height="199" frameX="-94" frameY="-18" frameWidth="396" frameHeight="236"/>
+	<SubTexture name="the  copy0002" x="347" y="0" width="196" height="199" frameX="-94" frameY="-18" frameWidth="396" frameHeight="236"/>
+	<SubTexture name="the  copy0003" x="543" y="0" width="273" height="236" frameX="-54" frameY="0" frameWidth="396" frameHeight="236"/>
+	<SubTexture name="the  copy0004" x="816" y="0" width="273" height="236" frameX="-54" frameY="0" frameWidth="396" frameHeight="236"/>
+	<SubTexture name="the  copy0005" x="1089" y="0" width="364" height="181" frameX="-15" frameY="-35" frameWidth="396" frameHeight="236"/>
+	<SubTexture name="the  copy0006" x="1453" y="0" width="364" height="181" frameX="-15" frameY="-35" frameWidth="396" frameHeight="236"/>
+	<SubTexture name="the  copy0007" x="0" y="236" width="364" height="181" frameX="-15" frameY="-35" frameWidth="396" frameHeight="236"/>
+	<SubTexture name="the  copy0008" x="364" y="236" width="390" height="176" frameX="-3" frameY="-46" frameWidth="396" frameHeight="236"/>
+	<SubTexture name="the  copy0009" x="754" y="236" width="390" height="176" frameX="-3" frameY="-46" frameWidth="396" frameHeight="236"/>
+	<SubTexture name="the  copy0010" x="1144" y="236" width="390" height="176" frameX="-3" frameY="-46" frameWidth="396" frameHeight="236"/>
+	<SubTexture name="the  copy0011" x="1534" y="236" width="394" height="177" frameX="-1" frameY="-48" frameWidth="396" frameHeight="236"/>
+	<SubTexture name="the  copy0012" x="0" y="417" width="394" height="177" frameX="-1" frameY="-48" frameWidth="396" frameHeight="236"/>
+	<SubTexture name="the  copy0013" x="394" y="417" width="394" height="177" frameX="-1" frameY="-48" frameWidth="396" frameHeight="236"/>
+	<SubTexture name="the  copy0014" x="788" y="417" width="396" height="177" frameX="0" frameY="-50" frameWidth="396" frameHeight="236"/>
+	<SubTexture name="the  copy0015" x="1184" y="417" width="396" height="177" frameX="0" frameY="-50" frameWidth="396" frameHeight="236"/>
+	<SubTexture name="the  copy0016" x="1580" y="417" width="396" height="177" frameX="0" frameY="-50" frameWidth="396" frameHeight="236"/>
+	<SubTexture name="the  copy0017" x="0" y="594" width="139" height="124" frameX="-105" frameY="-72" frameWidth="396" frameHeight="236"/>
+	<SubTexture name="the  copy0018" x="139" y="594" width="139" height="124" frameX="-105" frameY="-72" frameWidth="396" frameHeight="236"/>
+	<SubTexture name="the  copy0019" x="278" y="594" width="139" height="124" frameX="-105" frameY="-72" frameWidth="396" frameHeight="236"/>
+</TextureAtlas>

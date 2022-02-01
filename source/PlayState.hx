@@ -129,6 +129,8 @@ class PlayState extends MusicBeatState
 
 	public var vocals:FlxSound;
 
+	var bombExplosion:FlxSprite;
+
 	public var dad:Character;
 	public var gf:Character;
 	public var boyfriend:Boyfriend;
@@ -136,8 +138,6 @@ class PlayState extends MusicBeatState
 	public var notes:FlxTypedGroup<Note>;
 	public var unspawnNotes:Array<Note> = [];
 	public var eventNotes:Array<Dynamic> = [];
-
-	var pinkDust:FlxSprite;
 	private var strumLine:FlxSprite;
 
 	//Handles the new epic mega sexy cam code that i've done
@@ -689,15 +689,7 @@ class PlayState extends MusicBeatState
 			case 'bedroom': //funny women week
 				var bg:FlxSprite = new FlxSprite(-284, -30).loadGraphic(Paths.image("bedroom"));
 				add(bg);
-
-				pinkDust = new FlxSprite(-320, -300).loadGraphic(Paths.image("glitterbomb2"));
-				pinkDust.animation.addByPrefix('explode', "boom", 24, false);
-				pinkDust.animation.play('explode');
-				pinkDust.antialiasing = true;
-				pinkDust.scrollFactor.set(1, 1);
-				pinkDust.updateHitbox();
-				pinkDust.alpha = 0;
-				add(pinkDust);
+			
 		}
 
 		if(isPixelStage) {
@@ -3241,6 +3233,7 @@ class PlayState extends MusicBeatState
 
 
 	public var transitioning = false;
+	//keep this in mind
 	public function endSong():Void
 	{
 		//Should kill you if you tried to cheat
@@ -3325,7 +3318,7 @@ class PlayState extends MusicBeatState
 					if(FlxTransitionableState.skipNextTransIn) {
 						CustomFadeTransition.nextCamera = null;
 					}
-					MusicBeatState.switchState(new StoryMenuState());
+					MusicBeatState.switchState(new End());
 
 					// if ()
 					if(!ClientPrefs.getGameplaySetting('practice', false) && !ClientPrefs.getGameplaySetting('botplay', false)) {
@@ -3954,18 +3947,35 @@ class PlayState extends MusicBeatState
 		{
 			case 'Glitter Note':
 			{
-				FlxTween.tween(pinkDust, {alpha: 1}, 0.4, {ease: FlxEase.quadInOut});
+				var bombExplosion:FlxSprite = new FlxSprite(660, -20);
+				bombExplosion.frames = Paths.getSparrowAtlas('glitterbomb');
+				bombExplosion.setGraphicSize(Std.int(bombExplosion.width * 1.4));
+				bombExplosion.animation.addByPrefix('ok', "the  copy", 13);
+				bombExplosion.animation.play('ok');
+				bombExplosion.scrollFactor.set(0.7, 0.7);
+				add(bombExplosion);
 
-				new FlxTimer().start(5, function(timer:FlxTimer)
+
+				var pinkDust:FlxSprite = new FlxSprite(630, -10);
+				pinkDust.cameras = [camHUD];
+				pinkDust.frames = Paths.getSparrowAtlas('glitterbomb2');
+				pinkDust.alpha = 0;
+				pinkDust.animation.addByPrefix('ok', "boom", 13);
+				pinkDust.animation.play('ok');
+				pinkDust.scrollFactor.set(0.9, 0.9);
+				add(pinkDust);
+
+				FlxTween.tween(pinkDust, {alpha: 1}, 1.5, {ease: FlxEase.quadInOut});
+
+				new FlxTimer().start(1.5, function(timer:FlxTimer)
 				{
-				FlxTween.tween(pinkDust, {alpha: 0},1, {
-					ease: FlxEase.cubeInOut,
-					onComplete: function(twn:FlxTween)
-					{
-						pinkDust.destroy();
-					}
+					remove(bombExplosion);
 				});
-			});
+
+				new FlxTimer().start(10, function(timer:FlxTimer)
+				{
+					remove(pinkDust);
+				});
 			}
 		}
 		if (!note.wasGoodHit)
